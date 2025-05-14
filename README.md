@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwannca
+- 👋 Hi, I’m @mwannca Mamadou Wann
 - 👀 I’m interested in  creating new things...
 - 🌱 I’m currently learning AI integration
 - 💞️ I’m looking to collaborate on anything unquie
